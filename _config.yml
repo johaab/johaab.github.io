@@ -144,6 +144,7 @@ translate_langs: []
 header_pages:
 # - index.html
  - about.md
+ - cv.md
  - archives.html
  - contact.md
 # - categories.html
