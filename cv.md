@@ -7,9 +7,12 @@ title: CV
 ### [IBM Research Zürich](https://www.zurich.ibm.com/) 
 **Research Scientist**
 
-I was offered a fixed term position at the end of my master thesis to expand the project I started. More information will follow...
+I expanded the project I started during my Master thesis for which I work on interpretable machine learning.
+I focused on a type of weakly supervised learning and investigated how well [attention weights](https://arxiv.org/abs/1706.03762) correlate with the ground truth importance pattern found in the datasets I constructed.
 
-<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2022 - Today</div>
+This work was presented at the 4th International Workshop on eXplainable Knowledge Discovery in Data Mining ([XKDD 2022](https://kdd.isti.cnr.it/xkdd2022/)) and the respective article can be found on [arXiv](https://arxiv.org/abs/2207.13018).
+
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2022 - October 2022</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
 <br>
 
@@ -19,7 +22,7 @@ I was offered a fixed term position at the end of my master thesis to expand the
 ### [ETHZ](https://cbb.ethz.ch/) 
 **Computational Biology and Bioinformatics MSc**
 
-I developed my Computer Science skills and got introduced to the field of Artificial Intelligence while deepening my knowledge in Quantitative Biology. I applied what I learned on real-world problems during two short research projects before diving into the assesment of the attention mechanism as a source of explainability in Deep Learning during my master thesis project at IBM Research.
+I developed my Computer Science skills and got introduced to the field of Artificial Intelligence while deepening my knowledge in Quantitative Biology. I applied what I learned on real-world problems during two short research projects before diving into the assesment of the attention mechanism as a source of explainability in Deep Learning during my Master thesis project at IBM Research.
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   September 2019 - March 2022</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zürich (Switzerland)</div>  
@@ -37,7 +40,7 @@ I acquired strong engineering and analytical skills. I made my way through calcu
 ### [LTH](https://www.lth.se/utbildning/elektroteknik/)
 **Exchange program**
 
-I had the chance to discover a new country, improve my English skills and grow my social network. I took part in a wide range of lectures to complete my Bachelor, from Signal processing to Biomechanics.
+I had the chance to discover a new country, improve my English skills and grow my social network. I took part in a wide range of lectures to complete my Bachelor, from Signal Processing to Biomechanics.
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   August 2018 - June 2019</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Lund (Sweden)</div>

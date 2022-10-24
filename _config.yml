@@ -43,7 +43,7 @@ author: johaab
 copyright: <div> <img src="https://img.icons8.com/color/25/000000/switzerland-circular.png"/> <br> {currentYear} (c) Jonathan Haab <div/>
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Computational Biology and Bioinformatics MSc Graduate
+  ETH MSc Graduate
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://johaab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
