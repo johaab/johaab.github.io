@@ -72,4 +72,4 @@ As a committee, we organised social and career events to improve the life of stu
 
 <hr style="border:.5px solid lightgray"> <br>
 
-You can find a PDF version of my CV [here](https://raw.githubusercontent.com/johaab/johaab.github.io/master/pdfs/haab_jonathan_cv.pdf).
+You can find a PDF version of my CV [here](https://raw.githubusercontent.com/johaab/johaab.github.io/master/assets/pdf/haab_jonathan_cv.pdf).

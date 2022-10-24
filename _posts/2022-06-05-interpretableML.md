@@ -23,3 +23,4 @@ If the outcome is positive, the attention mechanism would allow to filter cells 
 - [Ashish Vaswani, et al. "Attention Is All You Need". CoRR abs/1706.03762. (2017).](https://arxiv.org/abs/1706.03762)
 - [Sarthak Jain, et al. "Attention is not Explanation". CoRR abs/1902.10186. (2019).](https://arxiv.org/abs/1902.10186)
 - [Sarah Wiegreffe, et al. "Attention is not not Explanation". CoRR abs/1908.04626. (2019).](https://arxiv.org/abs/1908.04626)
+- [Jonathan Haab, et al. "Is Attention Explanation? A Quantitative Assessment On Sets". CoRR abs/2207.13018 (2022)](https://arxiv.org/abs/2207.13018)
