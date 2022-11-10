@@ -12,6 +12,8 @@ I focused on a type of weakly supervised learning and investigated how well [att
 
 This work was presented at the 4th International Workshop on eXplainable Knowledge Discovery in Data Mining ([XKDD 2022](https://kdd.isti.cnr.it/xkdd2022/)) and the respective article can be found on [arXiv](https://arxiv.org/abs/2207.13018).
 
+An updated version of the paper above was presented at the "All Things Attention" NeurIPS Workshop 2022 and can be found on [OpenReview](https://openreview.net/forum?id=RuXGMxQjTO).
+
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2022 - October 2022</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
 <br>
@@ -49,6 +51,16 @@ I had the chance to discover a new country, improve my English skills and grow m
 <hr style="border:.5px solid lightgray"> <br>
 
 ## Volunteer Experience
+
+### [JVAL Openair Festival](https://www.jval.ch/)
+
+**Bar Manager**
+
+The JVAL Festival is "the most intimate Swiss festival" and welcomes around ten artists every summer in the vineyards overhanging Lake Geneva. After a few years working at one of the bars, I took over the vacant position of bar manager and I am now responsible for a team of a dozen barman/maid and the coordination with the other responsible people and departments.
+
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   August 2022 - Today</div>
+<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Begnins (Switzerland)</div>
+<br>
 
 ### [Velove](https://veloveuzh.ch/)
 
