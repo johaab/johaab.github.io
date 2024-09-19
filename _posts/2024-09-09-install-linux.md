@@ -4,6 +4,12 @@ title: Installing Linux on my old MacBook Pro
 subtitle: 
 categories: markdown
 tags: [Linux, Mint, MacOS]
+banner:
+  image: assets/images/others/linux_install/apple-mint.png
+  opacity: 0.5
+  background: "#000"
+  height: "100vh"
+  min_height: "42vh"
 ---
 
 I've been a huge fan of Apple products ever since I bought my first MacBook. 

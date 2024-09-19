@@ -4,6 +4,12 @@ title: When interpretability brings along new knowledge
 subtitle: Can Deep Learning teach us one thing or two about cell ecosystems?
 categories: markdown
 tags: [Master Thesis, Weakly Supervised Learning, Multiple Instance Learning, MIL, Attention, Deep Sets, PyTorch]
+banner:
+  image: assets/images/others/ibm_research/good_bad_attention.png
+  opacity: 0.5
+  background: "#000"
+  height: "100vh"
+  min_height: "48vh"
 ---
 
 As part of the master thesis project I completed at IBM Research Zürich, I worked on a type of weakly supervised learning problem where the data is described as bags of instances. 
