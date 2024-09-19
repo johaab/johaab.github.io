@@ -1,6 +1,8 @@
 ---
 layout: cv
-title: CV
+heading: "Curriculum Vitae"
+title: "CV"
+sidebar: article-menu
 ---
 
 ## Experience
@@ -122,4 +124,3 @@ The JVAL Festival is "the most intimate Swiss festival" and welcomes around ten 
 <hr style="border:.5px solid lightgray"> <br>
 
 You can find a PDF version of my CV <a href="https://johaab.github.io/assets/pdf/haab_jonathan_cv.pdf" target="_blank">here</a>.
-

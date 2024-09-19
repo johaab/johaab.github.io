@@ -1,16 +1,29 @@
 ---
 layout: framework
-banner: "assets/images/banners/dorothea-oldani-Wv6N5e75yXU-unsplash.jpg"
-banner_html:
-heading: "Curriculum Vitae"
-hidden: 
-sidebar: article-menu
+banner: "/assets/images/banners/dorothea-oldani-Wv6N5e75yXU-unsplash.jpg"
+hidden: []
+sidebar:
+  - article-menu
 ---
 
 
 <div class="cv">
+  <section>
 
-  {{ content }}
+    {%- assign name = 'banner' -%}
+    {%- include functions.html func='get_value' -%} 
+    {%- assign banner = return -%}
 
+    {%- assign name = 'hidden' -%}
+    {%- include functions.html func='get_value' -%}
+    {%- assign hidden = return -%}
+
+    {%- assign result = hidden | where_exp: "item", "item == 'header'" -%}
+    {%- if banner == nil and result.size == 0 -%}
+    {%- include views/post-header.html -%}
+    {%- endif -%}
+
+    {%- include views/article.html -%}
+
+  </section>
 </div>
-

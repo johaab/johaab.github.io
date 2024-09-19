@@ -16,12 +16,12 @@ This got me thinking: Why don't I install Linux on my old laptop?
 This would allow me to have my own little Linux machine to play around with as well as extend the lifespan of my hardware.
 I hope you'll find the following instructions usefull and that somehow this will help make better use of the devices you already own instead of switching directly to a new one.
 
-### Hardware specs
+## Hardware specs
 - **Processor** 3.1 GHz Dual-Core Intel Core i7
 - **Memory** 16 GB 1867 MHz DDR3
 - **Graphics** Intel Iris Graphics 6100 1536 MB
 
-### Backup
+## Backup
 Before installing Linux on your machine, it is important to backup all your data and operating system in case anything goes south.
 
 1. Store all data on an external hard drive using Time Machine
@@ -52,7 +52,7 @@ Before installing Linux on your machine, it is important to backup all your data
     ![](/assets/images/others/linux_install/terminal_install_flash.png)
 1. Done!
 
-### Linux installation
+## Linux installation
 <img src="/assets/images/others/linux_install/Linux_Mint_logo_without_wordmark.svg" width="200" height="200" />
 
 I chose to install the Linux Mint (Cinnamon) as I've heard it is the most beginner friendly distribution out there.
@@ -109,9 +109,9 @@ At the time of this installation, Linux Mint 22 "Wilma" is the latest release.
     - Successfully access google using Firefox
 1. Done!
 
-<br>
 
-**References**
+
+## References
 
 - [How to download and install macOS](https://support.apple.com/en-us/102662)
 - [How to create a bootable USB macOS installer](https://www.macworld.com/article/671308/how-to-create-a-bootable-usb-macos-installer.html)
