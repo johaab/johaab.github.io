@@ -1,5 +1,5 @@
 # Create a Jekyll container from a Ruby Alpine image
-FROM ruby:3.1.6-alpine3.20
+FROM --platform=linux/amd64 ruby:3.1.6-alpine3.20 
 
 # Add Jekyll dependencies to Alpine
 RUN apk update
